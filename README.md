@@ -2,10 +2,12 @@
 
 I had problems in a project with GeoJson files created by the Argentine government, so I decided to create my own GeoJson file. I started using a GeoJson file of the provinces and I joined them with cascaded_union. Then I created a GeoDataFrame with all the regions.
 
+<img src="https://github.com/Rodri1791/Regions_Argentina/blob/main/Regiones_ArgentinasGJSON/ayd.png" alt="regiones" style="width: 60%; height: auto;" />
 
 
 # Regiones de Argentina (GeoJson) <img src="https://www.dscasturias.com/WebRoot/StoreES3/Shops/ec8259/5B22/3B17/5576/7419/600F/52DF/D016/E45D/images.jpg" style="width: 5%; height: auto;" />
 
 Quise utilizar los GeoJson creados por el gobierno de argentina, pero tuve muchos problemas, por eso decidí crearlos yo mismo. Utilicé un GeoJson de las provincias y con el unary_union los uní para crear el GeoJson de las regiones de Argentina.
 
+<img src="https://github.com/Rodri1791/Regions_Argentina/blob/main/Regiones_ArgentinasGJSON/ayd.png" alt="regiones" style="width: 60%; height: auto;" />
 
