@@ -1,6 +1,6 @@
 # Regions of Argentina (GeoJson File) <img src="https://www.comprarbanderas.es/images/banderas/400/14-reino-unido_400px.jpg" style="width: 5%; height: auto;" />
 
-I had problems in a project with GeoJson files created by the Argentine government, so I decided to create my own GeoJson file. I started using a GeoJson file of the provinces and I joined them with cascaded_union. Then I created a GeoDataFrame with all the regions.
+I had problems in a project with GeoJson files created by the Argentine government, so I decided to create my own GeoJson file. I started using a GeoJson file of the provinces and I joined them with unary_union. Then I created a GeoDataFrame with all the regions.
 
 <img src="https://github.com/Rodri1791/Regions_Argentina/blob/main/Regiones_ArgentinasGJSON/ayd.png" alt="regiones" style="width: 60%; height: auto;" />
 
